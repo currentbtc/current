@@ -1,2 +1,2 @@
 # current
-btce colloboration on issues
+collobaration to solve issues with btce
