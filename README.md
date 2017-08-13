@@ -4,6 +4,9 @@
 
 Форум и обсуждения здесь: https://github.com/currentbtc/current/issues
 
+[![Вас кинули](https://img.youtube.com/vi/2F5HBf6c6Ds/0.jpg)](https://www.youtube.com/watch?v=2F5HBf6c6Ds "Вас кинули")
+
+
 ====
 
 I suggest collaboration to solve issues with btce. Every average member can help! Join us. 
