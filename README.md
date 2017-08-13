@@ -4,8 +4,12 @@
 
 Форум и обсуждения здесь: https://github.com/currentbtc/current/issues
 
+## Кто знает, что произошло?
 [![Вас кинули](https://img.youtube.com/vi/2F5HBf6c6Ds/0.jpg)](https://www.youtube.com/watch?v=2F5HBf6c6Ds "Вас кинули")
 
+
+## Решается вопрос, сколько процентов выплатить "пострадавшим"
+[![100%](https://img.youtube.com/vi/FPT7a3Me1-M/0.jpg)](https://www.youtube.com/watch?v=FPT7a3Me1-M "100%")
 
 ====
 
